@@ -1,2 +1,2 @@
 # Kotlin-project-
-Planet Reborn – Emotional Healing Adventure Game  A game designed to make the player feel calm, strong, and emotionally refreshed.  Concept  You play as a small spirit restoring a broken planet. Each level represents an emotion:.
+Planet Reborn is an immersive, skill-driven mobile game that blends adventure, strategy, and daily progression into one beautifully designed experience. Set in a reborn cosmic world filled with mystery and challenges, the game invites players to restore balance, unlock hidden powers, and grow stronger every day through missions, tasks, and rewards.
